@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MML Studios</title>
-    <link href="https://fonts.googleapis.com/css2?
     <style>
         /* General Styles */
         body, html {
@@ -120,9 +119,6 @@
     <div class="content" id="contact">
         <h2>Contact</h2>
         <p>Reach out to us for collaborations, inquiries, or any other simplebeats654@gmail.com.</p>
-   
-        <load>
-            <share file= all acusses>
     </nav>
 
      <footer>
